@@ -1,0 +1,21 @@
+{
+  "random_state": 42,
+  "raw_shape": [
+    1433,
+    63
+  ],
+  "n_employees": 1146,
+  "n_cluster_features": 15,
+  "encoded_dimensions": 51,
+  "pca_components_80pct": 18,
+  "pca_cum_var_at_n": 0.8153250812911542,
+  "best_k": 2,
+  "best_silhouette": 0.1179,
+  "cluster_sizes": {
+    "0": 439,
+    "1": 707
+  },
+  "ari_kmeans_vs_agglo": 0.5627,
+  "dbscan_n_clusters": 1,
+  "dbscan_noise_points": 30
+}

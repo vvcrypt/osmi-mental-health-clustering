@@ -1,0 +1,16 @@
+# Daten werden NICHT veroeffentlicht (CC-BY-SA 4.0, personenbezogene Gesundheitsdaten)
+data/
+archive/
+*.csv
+*.json
+!results.example.json
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
